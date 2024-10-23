@@ -5,10 +5,10 @@ const ThankYouScreen: React.FC = () => {
   return (
     <View style={styles.container}>
       <Image
-        source={require('../../assets/images/logo_bewell.png')} // Remplacez ce chemin par le bon chemin du fichier logo
+        source={require('../../assets/images/logo_bewell.png')}
         style={styles.image}
       />
-      <Text style={styles.thankYouText}>Merci de votre réponse</Text>
+      <Text style={styles.thankYouText}>Merci de votre réponse !</Text>
     </View>
   );
 };
