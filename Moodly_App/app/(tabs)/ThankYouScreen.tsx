@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#b197fc', // Couleur de fond en dégradé violet
+    backgroundColor: '#6c5ce7', // Couleur de fond en dégradé violet
   },
   image: {
     width: 200,
